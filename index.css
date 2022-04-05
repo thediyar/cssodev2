@@ -1,0 +1,54 @@
+.mg {
+    margin: 0px 585px ;
+}
+.search {
+    text-align: center;
+    background-color: #EEEEEE;
+}
+.divmg {
+    margin: 0px 77.6px ;
+    padding: 1px;
+    padding-bottom: 1px;
+    width: 1363px;
+    margin-top: -2px;
+}
+.divmg2 {
+    margin: 0px 0px 0px 77.6px ;
+    margin-top: 1.5px;
+    width: 504px;
+    height: 65px;
+    padding-top: 11px;
+}
+.divmg3 {
+    margin: 0px ;
+    margin-top: 1.5px;
+    margin-left: 1.5px;
+    width: 273px;
+    height: 68px;
+    padding-top: 8px;
+}
+.divmg4 {
+    margin: 0px ;
+    margin-top: 1.5px;
+    margin-left: 1.5px;
+    width: 585px;
+    height: 75px;
+    padding-top: 1px;
+}
+.divmg5 {
+    margin: 18px 681.7px;
+    width: 160px;
+}
+.left {
+    float: left;
+}
+.place {
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+.fsize {
+    font-size: 13px;
+}
+
